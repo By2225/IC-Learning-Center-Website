@@ -82,7 +82,7 @@ h2{
 
 h4{
     position: absolute;
-    font-size: 1.65vw;
+    font-size: 1.8vw;
     width: 100%;
     text-align: center;
     top:87%;
@@ -95,7 +95,7 @@ h4{
     position: absolute;
     bottom: 0%;
     left:0%;
-    width:10%; 
+    width:7%; 
     height:11%;
     background-color: #bee5f4;
 }
@@ -104,7 +104,7 @@ h4{
     position: absolute;
     bottom: 0%;
     right:0%;
-    width:10%; 
+    width:7%; 
     height:11%;
     background-color: #bee5f4;
 }
